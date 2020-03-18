@@ -1,3 +1,5 @@
+# This is the Github Finder app which has been refactored after making use of Context API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
