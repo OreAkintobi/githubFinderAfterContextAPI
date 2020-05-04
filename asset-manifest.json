@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/githubFinderAfterContextAPI/static/css/main.f65227a3.chunk.css",
+    "main.js": "/githubFinderAfterContextAPI/static/js/main.a3d73041.chunk.js",
+    "main.js.map": "/githubFinderAfterContextAPI/static/js/main.a3d73041.chunk.js.map",
+    "runtime-main.js": "/githubFinderAfterContextAPI/static/js/runtime-main.9332778f.js",
+    "runtime-main.js.map": "/githubFinderAfterContextAPI/static/js/runtime-main.9332778f.js.map",
+    "static/js/2.70c75a41.chunk.js": "/githubFinderAfterContextAPI/static/js/2.70c75a41.chunk.js",
+    "static/js/2.70c75a41.chunk.js.map": "/githubFinderAfterContextAPI/static/js/2.70c75a41.chunk.js.map",
+    "index.html": "/githubFinderAfterContextAPI/index.html",
+    "precache-manifest.48bcf880da3a57e6abf6240a0cd178d6.js": "/githubFinderAfterContextAPI/precache-manifest.48bcf880da3a57e6abf6240a0cd178d6.js",
+    "service-worker.js": "/githubFinderAfterContextAPI/service-worker.js",
+    "static/css/main.f65227a3.chunk.css.map": "/githubFinderAfterContextAPI/static/css/main.f65227a3.chunk.css.map",
+    "static/js/2.70c75a41.chunk.js.LICENSE.txt": "/githubFinderAfterContextAPI/static/js/2.70c75a41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9332778f.js",
+    "static/js/2.70c75a41.chunk.js",
+    "static/css/main.f65227a3.chunk.css",
+    "static/js/main.a3d73041.chunk.js"
+  ]
+}
